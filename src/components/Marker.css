@@ -1,0 +1,11 @@
+.marker {
+    background: rgba(233, 244, 255, .8);
+    padding: .2rem .5rem;
+    border-radius: .2rem;
+    border-style: solid;
+    border-color:  rgba(202, 202, 212, .8);
+    border-width: 1px;
+    display: inline-flex;
+    font-weight: bold;
+    cursor: pointer;
+}
